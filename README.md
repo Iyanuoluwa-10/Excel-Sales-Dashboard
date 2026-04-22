@@ -3,7 +3,7 @@
 ### Project Title: Electronics Sales Analysis
 
 ### Project Overview
-This project focuses on analyzing sales data to understand business performance and key trends.
+This project focused on analyzing sales data to understand business performance and key trends.
 The goal was to clean the dataset, perform basic analysis, and build an interactive dashboard that clearly shows insights such as revenue performance, sales distribution, and top-performing products, regions and categories.
 
 ### Tools Used
@@ -34,3 +34,16 @@ This was used to calculate revenue and support the analysis in the dashboard.
 
 <img width="960" height="528" alt="Excel dashboard" src="https://github.com/user-attachments/assets/93939d61-d628-429a-abbe-c9e8b94e5acb" />
 
+### Insights
+- The West region is performing the best, while the North is lagging behind
+- Computers generate the most revenue, with Laptop A15 leading as the top product
+- Sales fluctuate across months, showing an unstable pattern
+- Peter Obi and Fola Balogun drive most of the sales compared to other sales representatives
+- Revenue doesn’t always match units sold, meaning pricing has a strong impact
+
+### Recommendations
+- Focus on the West region to maintain and grow its strong performance
+- Investigate why the North region is underperforming and fix the gaps
+- Give more attention to top products like Laptop A15
+- Support lower-performing sales representatives with training and clearer targets
+- Look into the cause of monthly sales fluctuations and work on stabilizing performance
