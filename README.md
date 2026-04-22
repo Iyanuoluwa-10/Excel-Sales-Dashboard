@@ -3,6 +3,8 @@
 ### Project Title: Electronics Sales Analysis
 
 ### Project Overview
+This project focuses on analyzing sales data to understand business performance and key trends.
+The goal was to clean the dataset, perform basic analysis, and build an interactive dashboard that clearly shows insights such as revenue performance, sales distribution, and top-performing products, regions and categories.
 
 ### Tools Used
 - Microsoft Excel for data cleaning, analysis, and visualization
@@ -16,6 +18,11 @@ The following data cleaning steps were carried out to ensure data quality and co
 -  Corrected inaccurate data entries by replacing them with the appropriate values
 
 ### Exploratory Data Analysis
+Exploratory data analysis was carried out to better understand the dataset and answer key questions such as:
+-  What is the overall sales trend?
+-  Which products are top sellers?
+-  Which regions generate the most sales?
+
 ###  Data Analysis
 The following formula was used to derive total sales:
 ```
