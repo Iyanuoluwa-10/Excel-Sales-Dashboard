@@ -3,7 +3,7 @@
 ### Project Title: Electronics Sales Analysis
 
 ### Project Overview
-This project focused on analyzing sales data to understand business performance and key trends.
+This project focuses on analyzing sales data to understand business performance and key trends.
 The goal was to clean the dataset, perform basic analysis, and build an interactive dashboard that clearly shows insights such as revenue performance, sales distribution, and top-performing products, regions and categories.
 
 ### Tools Used
